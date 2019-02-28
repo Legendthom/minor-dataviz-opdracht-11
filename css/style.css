@@ -1,0 +1,13 @@
+/* 
+Grid CSS Styling
+Thom Kemp - 1534009
+*/
+body {
+    margin: 0;
+    background-color: #000;
+}
+
+h2 {
+    color: #fff;
+    margin-left: 20px;
+}
